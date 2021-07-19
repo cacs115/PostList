@@ -1,0 +1,2 @@
+rootProject.name = "PostList"
+include ':app'

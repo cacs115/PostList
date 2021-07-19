@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PostList</string>
+    <string name="ups_something_went_wrong_please_check_your_internet_connection">Ups! something went wrong please check your internet connection</string>
+    <string name="delete_all">delete all</string>
+</resources>
